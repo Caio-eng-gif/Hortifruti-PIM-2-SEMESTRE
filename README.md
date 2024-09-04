@@ -29,9 +29,14 @@ Projeto PIM - 2° semestre
 
 ## 👨‍🏫 Disciplinas Integradas:
 
-- 
-- 
-- 
+- Educação ambiental
+- Engenharia de software
+- Ética e legislação profissional
+- Fundamentos de redes
+- Linguagem e técnicas de programação
+- Matemática para computação
+- Metodologia científica
+- Projeto integrador
 
 ## 🎯 Objetivo
 
