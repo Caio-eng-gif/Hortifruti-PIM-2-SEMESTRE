@@ -20,7 +20,7 @@ Projeto PIM - 2° semestre
 |__Caio Costa Santos__   | *Scrum Master*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/BrendelMarques)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/brendel-marques-4bb1b3148/) |
 |__Gabriel Souza__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/CristineGomes)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/cristine-cordeiro-467a9620b) |
 |__Guilherme Oliveira__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/Gustavo394)      | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/gustavo-h8-silva) |
-|__Lucas Gimenez__ | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/laroyprado)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/laroyprado/) |
+|__Lucas Gimenez__ | *Scrum Master* | https://github.com/Lucasmsg97  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/laroyprado/) |
 |__Lucas Machado__| *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/LucasMachado12) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/pabloo-cunha/) |
 
 
