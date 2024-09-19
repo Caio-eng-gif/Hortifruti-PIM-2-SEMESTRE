@@ -64,6 +64,26 @@ Projeto PIM - 2° semestre de 2024
 
 
 # 📝 Product Backlog
+**Sprint 1**
+  
+  **Levantamento de Requisitos**
+- Análise de Casos de Uso: Definir cenários específicos em que o sistema será utilizado, descrevendo como ele deve funcionar em cada situação.
+- Especificação de Requisitos Funcionais e Não Funcionais: Criar uma lista clara e detalhada do que o sistema deve fazer (funcionais) e das restrições de desempenho, segurança, etc. (não funcionais).
+- Priorização de Requisitos: Organizar os requisitos em ordem de importância e urgência, com base na viabilidade e impacto para o projeto.
 
+**Sprint 2**
+
+   **Estrutura da Parte Escrita do Projeto**
+- Introdução e Justificativa: Explique o problema que o projeto pretende resolver e a importância dele no contexto atual.
+- Objetivos: Definir os objetivos gerais e específicos do projeto, deixando claro o que se pretende alcançar.
+- Escopo do Projeto: Delimitar o que será abordado e o que ficará de fora do projeto para evitar desvio de foco.
+- Metodologia: Descrever a abordagem que será usada para o desenvolvimento (ágil, waterfall, etc.).
+- Cronograma: Criar um cronograma preliminar para as entregas do projeto, definindo as fases de desenvolvimento.
+- Análise de Riscos: Identificar possíveis obstáculos e riscos que podem surgir durante o desenvolvimento e como mitigá-los.
+- Tecnologias e Ferramentas: Listar as ferramentas, linguagens e tecnologias que serão usadas no projeto.
+
+**Sprint 3**
+  
+  
 
 
