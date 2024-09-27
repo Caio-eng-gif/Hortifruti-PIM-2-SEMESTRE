@@ -74,7 +74,7 @@ Projeto PIM - 2° semestre de 2024
 **Sprint 2**
 
    **Estrutura da Parte Escrita do Projeto**
-- Introdução e Justificativa: Explique o problema que o projeto pretende resolver e a importância dele no contexto atual.
+- Introdução e Justificativa: Explicar o problema que o projeto pretende resolver e a importância dele no contexto atual.
 - Objetivos: Definir os objetivos gerais e específicos do projeto, deixando claro o que se pretende alcançar.
 - Escopo do Projeto: Delimitar o que será abordado e o que ficará de fora do projeto para evitar desvio de foco.
 - Metodologia: Descrever a abordagem que será usada para o desenvolvimento (ágil, waterfall, etc.).
