@@ -1,4 +1,3 @@
 laranja 10 8,00 2,50
-laranja 2 8,00 0,00
 manga 2 2,00 0,00
 Goiaba 1 6,00 12,00
